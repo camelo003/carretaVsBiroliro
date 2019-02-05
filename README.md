@@ -33,3 +33,16 @@ Demo: Carreta vs. Biroliro
    - [ ] cenas
    - [ ] _"juntate"_
    - [ ] _"compilate"_
+   
+## Dependências Etapas
+   
+|dependência| >>  |etapa|
+|---|---|---|
+| -- |>>|Roteiro|
+| -- |>>|Trilha|
+| -- |>>|Designs|
+|roteiro, trilha, design|>>|Storyboard|
+|storyboard|>>|Leiautes|
+|leiautes|>>|Cenários|
+|designs|>>|3D|
+|***tudo***|>>|Programação|
